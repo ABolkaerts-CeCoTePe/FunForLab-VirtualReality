@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialInstruction_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: 64ffd5b21f2d4d44182830583f1b83ff, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 143666565120
+    m_Localized: Begin met praten met de robot voor je.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63899291648
+    m_Localized: Om dit te doen, richt je controller op de tekst Gesprek erboven.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428321394688
+    m_Localized: Wanneer er een groene laser verschijnt, drukt u op de achterste
+      trekker van uw controller.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367369768960
+    m_Localized: Om het gesprek voort te zetten, wijst u uw controller naar de doorgaanknop
+      en drukt u op de achterste trekker van uw controller.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312835895840768
+    m_Localized: In FunForLab gebeurt reizen door teleportatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312931291090944
+    m_Localized: Aan het einde van deze laser geeft een cirkelvormig gebied aan waar
+      je naartoe zult teleporteren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312891705249792
+    m_Localized: Om te bewegen, druk en houd de achterste trekker van je controller
+      ingedrukt. Er zal een blauwe laser uit je controller verschijnen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312970243592192
+    m_Localized: Om daarheen te teleporteren, laat je de achterste knop die je vasthoudt
+      los.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378542645956608
+    m_Localized: Om een voorwerp op te pakken, beweeg je je hand dichterbij tot de
+      omtrek geel wordt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378553987354624
+    m_Localized: Houd de achtertrekker van je controller ingedrukt om hem vast te
+      houden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378587009110016
+    m_Localized: Om het voorwerp los te maken, laat u de achterste knop los.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

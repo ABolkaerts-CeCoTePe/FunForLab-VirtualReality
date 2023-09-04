@@ -1,0 +1,351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: EarthTutorial_nl-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-BE
+  m_SharedData: {fileID: 11400000, guid: 53dd903d64b922b4aad817b462cddcf5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63383392256
+    m_Localized: Speler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363776
+    m_Localized: AILA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363778
+    m_Localized: Welkom bij de Earth to Mars Rescue (EMR) Boarding Center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363779
+    m_Localized: Dit is uw toegangsbadge van niveau 4.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363780
+    m_Localized: Hiermee kunt u toegang krijgen tot het gebied dat voor het publiek
+      verboden is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363781
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363782
+    m_Localized: Ik hoop dat de rit naar het centrum in de luchtbus goed is verlopen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363783
+    m_Localized: Kom met me mee en ik zal de verschillende procedures uitleggen voordat
+      ik instap.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363784
+    m_Localized: Allereerst laat me mezelf voorstellen. Ik ben AILA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363785
+    m_Localized: Ik ben je robotassistent en ik zal je begeleiden op deze reis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363786
+    m_Localized: Ik heb veel gehoord over jou en je wetenschappelijke prestaties!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558080
+    m_Localized: Ik keek ernaar uit je te ontmoeten in het vlees!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558081
+    m_Localized: Voordat ik aan je training begin, ga ik een basistest doen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558082
+    m_Localized: We gaan kijken of u verschillende eenvoudige acties kunt uitvoeren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558083
+    m_Localized: Ik heb een anekdote die je gegarandeerd een wenkbrauw of twee zal
+      laten opwekken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558084
+    m_Localized: Gisteren heb ik een astronaut gecontroleerd en hij had Trappist
+      -bier in zijn fles!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558085
+    m_Localized: In 2051 weet je echt niet meer wie je kunt vertrouwen ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558086
+    m_Localized: Volg mij naar de balie, ik zal u uw toegang geven tot de beveiligde
+      omgeving.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558087
+    m_Localized: Volg mij naar de beveiligde deur, ik zal je laten zien hoe je hem
+      kunt openen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558088
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558089
+    m_Localized: Om deze deur te openen, zwaait u uw badge voor deze scanner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558090
+    m_Localized: Geweldig! Volg me nu naar de volgende kamer, ik zal je laten zien
+      hoe je je pak kunt veranderen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558091
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558092
+    m_Localized: Omdat we op het punt staan ??aan onze startcapsule te beginnen,
+      is uw laboratoriumoutfit niet de meest geschikte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558093
+    m_Localized: Dit is ons nieuwste automatische cloakroom -model.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558094
+    m_Localized: Ga naar binnen en trek je ruimtevak aan, ik zal hier wachten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558095
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558096
+    m_Localized: Wauw, je hebt het goed gedaan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558097
+    m_Localized: Ik ben nu verzadigd dat je gezond bent en volledig onder controle
+      over jezelf bent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558098
+    m_Localized: Volg mij naar de volgende kamer, ik heb mooie dingen om je te laten
+      zien.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558099
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558100
+    m_Localized: Hier zijn kunstwerken van kunstenaars van de aarde.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558101
+    m_Localized: Ze weerspiegelen hun visie op een betere toekomst op de rode planeet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558102
+    m_Localized: Ik laat je tijd om ze te bewonderen. Ik wacht op je bij de uitgangsdeuren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558103
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558104
+    m_Localized: Laten we opschieten, ons wordt verwacht!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558105
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558106
+    m_Localized: Indrukwekkend, nietwaar? Deze basis is momenteel de grootste ter
+      wereld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558107
+    m_Localized: Tegen 2053 hopen we meer dan 5 miljoen mensen naar Mars te sturen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558108
+    m_Localized: Dit is de grote dag, mijn vriend, ik hoop dat je er klaar voor bent!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558109
+    m_Localized: Ja dat ben ik!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558110
+    m_Localized: Dit is onze capsule, het zal ons naar ons hoofdschip brengen, de
+      XRFFL836
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558111
+    m_Localized: Deze nieuwe generatie shuttle brengt ons in minder dan twee dagen
+      naar het hoofdschip.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558112
+    m_Localized: Ga op de stoel, we staan ??op het punt op te stijgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558113
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558114
+    m_Localized: We zijn klaar om te gaan. Vergeet niet om je riem vast te houden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558115
+    m_Localized: Gebruik de computer om de deur te sluiten en begin vervolgens met
+      de start.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558116
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558117
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558119
+    m_Localized: "Il FAUT Que Tu Analyseer Cet \uFFFDchantillon CBC AVEC L'Automate
+      FFL 1000."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558120
+    m_Localized: "Va Dans le Laboratoire Avec Cet \uFFFDchantillon, et Place Dans
+      Un Rack Un \uFFFDantillon de contr\uFFFDle (QC) Ainsi Que L'Echantillon de
+      Sang (CBC)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558122
+    m_Localized: J'y Vais.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558123
+    m_Localized: "Plaats dans un rack un \uFFFDchantillon de contr\uFFFDle (QC) ainsi
+      que l'\uFFFDchantillon de sang (CBC) que tu dois analysator."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558124
+    m_Localized: "Tu Peux Maintenant Placer Le Rack Avec Les \uFFFDchantillons Dans
+      L'Autalate FFL 1000, Sur Sa Partie Droite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558126
+    m_Localized: OK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558127
+    m_Localized: "Positionne le Rack Avec Les \uFFFDchantillons Dans L'Autalate FFL
+      1000."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558128
+    m_Localized: "Il est temps de lancer l'analyseer de l'Oxtintenant que les \uFFFDchantillons
+      sont en plaats."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558130
+    m_Localized: C'est parti!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558131
+    m_Localized: Lance l'analyseer sur l'Axess ffl 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558132
+    m_Localized: ATTEVERSCHUWING Automate Ait Fini de Faire l'analyse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558133
+    m_Localized: "Bien! Onderhoud que l'Axate \uFFFD fini d'analysator l'\uFFFDchantillon,
+      tu peux aller mettre les \uFFFDchantillons dans les bons frigos qui sont danans
+      la salle des archives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558134
+    m_Localized: "L'Echantillon de Contr\uFFFDle (QC) DOIT Aller Dans le Frigo de
+      QC, Tandis Que Celui de Sang (CBC) Doe Aller Dans le Frigo d'Archivage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558136
+    m_Localized: Je m'en bezetten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558137
+    m_Localized: "Plaats Les \uFFFDchantillons de Contr\uFFFDle (QC) et de Sang (CBC)
+      Dans Les Bons Frigos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558138
+    m_Localized: "Parfait! C'en est fini pour les analyses. Op Peut Passer \uFFFD
+      la suite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558140
+    m_Localized: "Quitter Le Sc\uFFFDnario 1 et Revenir Au Menu Principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558142
+    m_Localized: "Rester Dans le Sc\uFFFDnario 1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558143
+    m_Localized: "Bonjour! SUIS-MOI \uFFFD la R\uFFFDception, op VA Aller R\uFFFDcup\uFFFDrer
+      L'\uFFFDchantillon Que Tu Dois Analyzer. C'est Derri\uFFFDre Cette Porte Sur
+      La Gauche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558144
+    m_Localized: "Tu Peux Aussi Prendre ton scanner Si Tu als Besoin d'obtenir des
+      Informations D\uFFFDtaill\uFFFDes. TU Peux le Placer Dans Tes Poches, Tout
+      Comme ton Badge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558145
+    m_Localized: "Tu aura's pour cela Besoin de ton badge d'Acc\uFFFDs que voici.
+      Scanne-le pr\uFFFDs d'Une porte pour l'uvrir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558147
+    m_Localized: Je te Suis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558148
+    m_Localized: Je t'attend Dans le Laboratoire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558149
+    m_Localized: "Il ne reste plus que cela \uFFFD faire, je t'attend dans les archives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558150
+    m_Localized: Si tu veux avant, tu peux toujours te changer dans la capsule qui
+      est ici sur ta gauche.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

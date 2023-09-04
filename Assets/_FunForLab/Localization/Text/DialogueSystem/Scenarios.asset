@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Scenarios
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: bd2045594f5471b4eaf75a714c526a67, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: e0ce11295e6d7384ab21a59a152ac98c, type: 2}
+  - {fileID: 11400000, guid: ad5f0138a4f80364788f7a8464be0d0a, type: 2}
+  - {fileID: 11400000, guid: 06ce6d64f53ea454f8577c8466630cec, type: 2}
+  - {fileID: 11400000, guid: 851b4d94ce85a754b8ef6676df237ec3, type: 2}
+  - {fileID: 11400000, guid: 0cfa971c777f3e54eba89ca258549d7f, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

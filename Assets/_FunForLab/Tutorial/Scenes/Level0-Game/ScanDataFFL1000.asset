@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef999c897448e4b4582dfed4492080e7, type: 3}
+  m_Name: ScanDataFFL1000
+  m_EditorClassIdentifier: 
+  label:
+    m_TableReference:
+      m_TableCollectionName: GUID:8272c335ab442174f902d144508f435b
+    m_TableEntryReference:
+      m_KeyId: 86548271104
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  scanType: 1
+  description:
+    m_TableReference:
+      m_TableCollectionName: GUID:8272c335ab442174f902d144508f435b
+    m_TableEntryReference:
+      m_KeyId: 353666715648
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 1

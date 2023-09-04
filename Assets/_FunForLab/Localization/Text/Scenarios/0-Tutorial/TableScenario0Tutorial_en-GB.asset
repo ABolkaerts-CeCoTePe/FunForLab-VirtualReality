@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableScenario0Tutorial_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 819eea6eb24a3904b901ed5583f55c53, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 171298762752
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372537274368
+    m_Localized: Put the samples in the rack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448697446400
+    m_Localized: CBC sample
+    m_Metadata:
+      m_Items: []
+  - m_Id: 608034861056
+    m_Localized: Control sample (QC)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740637782016
+    m_Localized: Put the rack with the samples in the FFL 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866265575424
+    m_Localized: Launch the analysis of the FFL 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7249053611065344
+    m_Localized: Put the samples in the right fridges.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7249238126886912
+    m_Localized: CBC sample in the Archiving fridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7249406121345024
+    m_Localized: Control sample (QC) in the Control fridge
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

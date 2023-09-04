@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6179538200744571085
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1242552533, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365613031169492122, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665536, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: conversation
+      value: Analyse FFL 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665536, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: conversationActor
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665539, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: conversationEvents.onConversationStart.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].questState
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].indicatorLevel
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].indicatorLevel
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].indicatorLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.luaConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].condition.luaConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.luaConditions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.luaConditions.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].condition.questConditions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].condition.questConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].condition.questConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.questConditions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.luaConditions.Array.data[0]
+      value: (CurrentQuestEntryState("QuestFFL1000", 1) == "success") and (CurrentQuestEntryState("QuestFFL1000",
+        2) == "success")
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].condition.luaConditions.Array.data[0]
+      value: (CurrentQuestEntryState("QuestFFL1000", 4) == "success") and (CurrentQuestEntryState("QuestFFL1000",
+        5) == "unassigned") and (CurrentQuestEntryState("QuestFFL1000", 6) == "unassigned")
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.luaConditions.Array.data[0]
+      value: CurrentQuestState("QuestFFL1000") == "active"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.luaConditions.Array.data[1]
+      value: (CurrentQuestEntryState("QuestFFL1000", 1) ~= "success") or (CurrentQuestEntryState("QuestFFL1000",
+        2) ~= "success")
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.luaConditions.Array.data[0]
+      value: CurrentQuestState("QuestFFL1000") == "active"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.luaConditions.Array.data[1]
+      value: (CurrentQuestEntryState("QuestFFL1000", 5) ~= "unassigned") or (CurrentQuestEntryState("QuestFFL1000",
+        6) ~= "unassigned")
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.luaConditions.Array.data[2]
+      value: CurrentQuestEntryState("QuestFFL1000", 4) == "success"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[0].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.data[1].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[2].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[1].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[1].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.questConditions.Array.data[0].questName
+      value: QuestFFL1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.data[1].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[1].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[1].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].condition.questConditions.Array.data[0].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].condition.questConditions.Array.data[0].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.questConditions.Array.data[0].questState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.data[1].entryNumber
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[2].condition.questConditions.Array.data[0].entryNumber
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].condition.questConditions.Array.data[0].entryNumber
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[0].entryNumber
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[1].entryNumber
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[0].entryNumber
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[1].entryNumber
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].condition.questConditions.Array.data[0].entryNumber
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].condition.questConditions.Array.data[0].entryNumber
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.questConditions.Array.data[0].entryNumber
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.data[1].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[1].condition.questConditions.Array.data[1].questEntryState
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[3].condition.questConditions.Array.data[0].questEntryState
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[0].questEntryState
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[1].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[4].condition.questConditions.Array.data[1].questEntryState
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[0].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[1].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[5].condition.questConditions.Array.data[1].questEntryState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].condition.questConditions.Array.data[0].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[6].condition.questConditions.Array.data[0].questEntryState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].condition.questConditions.Array.data[0].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[7].condition.questConditions.Array.data[0].questEntryState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.questConditions.Array.data[0].checkQuestEntry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665542, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: questStateIndicatorLevels.Array.data[8].condition.questConditions.Array.data[0].questEntryState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2483494272327665543, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: spaceshipTeleportPosition
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565429359, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565522311, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565606405, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565606405, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565606405, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565606405, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565606405, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565606405, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565607525, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565607525, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565607525, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565607525, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565607525, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3045189496565607525, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6377168104902092471, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}
+      propertyPath: m_Name
+      value: RobotPlaceholder FFL1000
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b85aaf6d5c1af7d4d866f7fd33784c0e, type: 3}

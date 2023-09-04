@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableDialogueSystemScenario1_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 706887daacf1fec4db098da0995d713d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1155912359967
+    m_Localized: You have to analyze this [em1]CBC sample[/em1] with the [em1]FFL
+      1000 automaton[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359968
+    m_Localized: Go to the lab with this sample, and place a [em1]Control sample
+      (QC)[/em1] and the [em1]blood sample (CBC)[/em1] in a rack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359970
+    m_Localized: I go.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359971
+    m_Localized: Place a [em1]Control sample (QC)[/em1] and the [em1]blood sample
+      (CBC)[/em1] you need to analyze in a rack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359972
+    m_Localized: You can now [em1]place the rack with the samples in the FFL 1000
+      automaton[/em1], on its right side.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359974
+    m_Localized: OK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359975
+    m_Localized: Position the rack with the samples in the [em1]FFL 1000 automaton[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359976
+    m_Localized: It is time to [em1]run the analyzer[/em1] now that the samples are
+      in place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359978
+    m_Localized: Let's go!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359979
+    m_Localized: '[em1]Starts the analysis[/em1] on the FFL 1000 automaton.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359980
+    m_Localized: Let's wait for the automaton to finish the analysis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359981
+    m_Localized: Good ! Now that the automaton has finished analyzing the sample,
+      you can go and [em1]put the samples in the correct fridges in the archive room[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359982
+    m_Localized: The Control (QC) sample should go to the [em1]QC fridge[/em1], while
+      the Blood (CBC) sample should go to the [em1]Archive fridge[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359984
+    m_Localized: I'm taking care of it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359985
+    m_Localized: Place the Control (QC) and blood (CBC) samples in the [em1]correct
+      fridges[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359986
+    m_Localized: Perfect ! That's it for analytics. We can move on.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359988
+    m_Localized: Exit Scenario 1 and return to Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155916554241
+    m_Localized: Stay in Scenario 1.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429504
+    m_Localized: Hello! [em1]Follow me to reception[/em1], we're going to [em1]get
+      the sample you need to analyze[/em1]. It's behind that door on the left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429505
+    m_Localized: You can also [em1]take your scanner if you need to get detailed
+      information[/em1]. You can [em1]put it in your pockets[/em1], just like your
+      badge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429506
+    m_Localized: You will need your [em1]access badge[/em1] for this. Scan it near
+      a door to open it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429508
+    m_Localized: I follow you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429509
+    m_Localized: I'm waiting for you in the lab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429510
+    m_Localized: All that's left to do is wait for you in the archives.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340505425465344
+    m_Localized: If you want before, you can always [em1]change in the capsule[/em1]
+      which is here on your left.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

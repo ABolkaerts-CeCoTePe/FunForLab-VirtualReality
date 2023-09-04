@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prologue-Text_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: e21a40d7bff1d7d4b859757920d5a8cd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50690916352
+    m_Localized: "2051, trotz zahlreicher Warnungen von wissenschaftlichen Experten
+      und alarmierenden Berichten des IPCC in den letzten Jahrzehnten sind die Ma\xDFnahmen
+      zur Bek\xE4mpfung von Klimaver\xE4nderungen nicht ausreichend. Naturkatastrophen,
+      Kriege und Virus -Epidemien haben zugenommen. Das Schmelzen von Eis f\xFChrt
+      dazu, dass das Wasser steigt und viele Teile der Welt unwirtlich macht. Mit
+      Hilfe der gr\xF6\xDFten multinationalen Unternehmen haben die Regierungen vieler
+      L\xE4nder die Kolonisierung des Planeten Mars organisiert, um die Menschheit
+      zu retten, Mission hei\xDFt EMR (Erde zu Mars Rescue)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405034106880
+    m_Localized: "Das Leben auf der Erde wird immer komplizierter und gef\xE4hrlicher
+      als Naturkatastrophen (\xDCberschwemmungen, Erdbeben, Tornados, Tsunamis),
+      verschiedene Epidemien sowie K\xE4lte- und Hitzewellen t\xF6ten Menschen. Jeder
+      m\xF6chte so schnell wie m\xF6glich gehen, damit der Mars sein Leben und die
+      ihrer Angeh\xF6rigen rettet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532490616832
+    m_Localized: "Es wird mehrere Jahrzehnte dauern, bis die gesamte Menschheit auf
+      den roten Planeten \xFCbertragen werden kann. Menschen mit n\xFCtzlichen F\xE4higkeiten,
+      die von Labors zertifiziert werden m\xFCssen, hat Priorit\xE4t. Jeder ben\xF6tigt
+      Bluttestergebnisse, um seine Anwendungen zu validieren, und einige Berufe erfordern
+      spezifische F\xE4higkeiten, die nachgewiesen werden m\xFCssen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619086217216
+    m_Localized: "Die an den Ergebnissen von Blutuntersuchungen in staatlichen Labors
+      durchgef\xFChrten Eins\xE4tzen sind daher enorm. Menschen, die ihren Zugang
+      zum Raumschiff validieren, d\xFCrfen ihre Familienmitglieder mitnehmen. Ger\xFCchten
+      zufolge haben die lokale Mafia die Kontrolle \xFCber einige der Laboratorien
+      \xFCbernommen und f\xE4lscht Tests f\xFCr gro\xDFe Geldsummen gef\xE4lscht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736296042496
+    m_Localized: "Sie sind ein neu abgestufter medizinischer Labortechnologe, dessen
+      Eltern Polizisten mit vorbildlichen Serviceaufzeichnungen und Karrieren waren.
+      Beide starben als Helden, als sie ihr Leben riskierten, um w\xE4hrend der Vis\xE9-\xDCberschwemmungen
+      im August 2046 78 Kinder in einer Schule zu retten. Ihre 6-j\xE4hrige Schwester
+      Lilou ist asthmatisch und hat Schwierigkeiten, das Wetter der Erde zu \xFCberleben.
+      Um sie zu retten, m\xF6chten Sie einen Job finden, mit dem Sie Ihren Zugriff
+      auf den roten Planeten validieren und Ihre Schwester so schnell wie m\xF6glich
+      mitnehmen k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814859550720
+    m_Localized: "In Anbetracht der Dienstleistung Ihrer Eltern kontaktierte Sie
+      der europ\xE4ische Geheimdienst, um Ihnen eine Mission zu geben: ein verlassenes
+      Labor im Dorf Limburg Luttachestricht, das von der schrecklichen \xF6rtlichen
+      Mafia, Balmont -Familie, dominiert wird. Sie m\xFCssen Blutproben erneut testen,
+      um die Echtheit der Laborergebnisse zu \xFCberpr\xFCfen. Wenn Sie bei der Demontage
+      der Mafia helfen, wird die Regierung Sie als medizinischen Labortechnologe
+      f\xFCr Missionen zum Mars einstellen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887433592832
+    m_Localized: Um einen Mafia -Test -Manipulationsring auf der Erde aufzubrechen,
+      haben Sie und Ihre Schwester Zugang zum Shuttle zum roten Planeten. Diese zweite
+      Folge des Spiels beginnt im Boarding.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21935138930688
+    m_Localized: "\xDCberspringen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862615220224
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

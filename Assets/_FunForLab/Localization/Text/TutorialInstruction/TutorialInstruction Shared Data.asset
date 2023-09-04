@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TutorialInstruction Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TutorialInstruction
+  m_TableCollectionNameGuidString: 64ffd5b21f2d4d44182830583f1b83ff
+  m_Entries:
+  - m_Id: 143666565120
+    m_Key: TALK_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63899291648
+    m_Key: TALK_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428321394688
+    m_Key: TALK_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367369768960
+    m_Key: TALK_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312835895840768
+    m_Key: TELEPORT_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312891705249792
+    m_Key: TELEPORT_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312931291090944
+    m_Key: TELEPORT_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312970243592192
+    m_Key: TELEPORT_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378542645956608
+    m_Key: GRAB_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378553987354624
+    m_Key: GRAB_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378587009110016
+    m_Key: GRAB_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3234276249292800
+    m_Key: SUIT_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3234290870636544
+    m_Key: SUIT_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3234294431600640
+    m_Key: GUI_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3234295186575360
+    m_Key: GUI_2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2100009490026070022
+  references:
+    version: 2
+    RefIds:
+    - rid: 2100009490026070022
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1684930754539

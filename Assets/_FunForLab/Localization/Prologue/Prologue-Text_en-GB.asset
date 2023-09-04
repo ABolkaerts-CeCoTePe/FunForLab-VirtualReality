@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prologue-Text_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: e21a40d7bff1d7d4b859757920d5a8cd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50690916352
+    m_Localized: 2051, Despite numerous warnings from scientific experts and alarming
+      reports from the IPCC over the past decades, the measures taken to combat climate
+      changes are insufficient.  Natural disasters, wars and virus epidemics have
+      increased. Melting ice is causing the waters to rise, making many parts of
+      the world inhospitable. With the help of the largest multinationals, the governments
+      of many countries have organised the colonisation of the planet Mars to save
+      humanity, mission is called EMR (Earth to Mars Rescue).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405034106880
+    m_Localized: 'Life on earth is becoming increasingly complicated and dangerous
+      as natural disasters (floods, earthquakes, tornadoes, tsunamis), various epidemics
+      and cold and heat waves kill people. Everybody wants to leave as soon as possible
+      for Mars to save their lives and those of their loved ones. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532490616832
+    m_Localized: 'It will take several decades before all humanity can be transferred
+      to the Red Planet. Priority is given to people with useful capabilities that
+      needs to be certified by laboratories. Everyone needs blood test results to
+      validate their applications and some professions require specific abilities
+      that need to be proven.    '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619086217216
+    m_Localized: 'The stakes involved in the results of blood tests carried out in
+      government laboratories are therefore enormous. People who validate their access
+      to the spacecraft are allowed to take their family members with them. Rumour
+      has it that local mafia have taken control of some of the laboratories and
+      is falsifying tests for large sums of money.   '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736296042496
+    m_Localized: "You are a newly graduated medical lab technologist whose parents
+      were police officers with exemplary service records and careers. They both
+      died as heroes when they risked their lives to save 78 children in a school
+      during the Vis\xE9 floods in August 2046. Your 6year-old sister, Lilou, is
+      asthmatic and has difficulty surviving the earth\u2019s weather. In order to
+      save her, you want to find a job that would allow you to validate your access
+      to the red planet and take your sister there with you as soon as possible. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814859550720
+    m_Localized: 'In view of your parents'' service record, the European Secret Service
+      contacted you to give you a mission: to reinvestigate an abandoned laboratory
+      in the Limburg village of Luttachestricht, which is dominated by the terrible
+      local mafia, Balmont Family. You must retest blood samples to verify the authenticity
+      of the laboratory results. If you help to dismantle the mafia, the government
+      will hire you as a medical laboratory technologist for missions to Mars.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887433592832
+    m_Localized: For breaking up a mafia test tampering ring on Earth, you and your
+      sister have access to the shuttle to the red planet. This second episode of
+      the game starts at the boarding.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862615220224
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21935138930688
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

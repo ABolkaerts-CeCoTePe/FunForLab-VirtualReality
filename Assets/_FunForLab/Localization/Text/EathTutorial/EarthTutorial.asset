@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: EarthTutorial
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 53dd903d64b922b4aad817b462cddcf5, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 0f4c92c649036c54d8e0460fc25b55d8, type: 2}
+  - {fileID: 11400000, guid: b5e9f5fb67d7ccb4da5025d07becd3d4, type: 2}
+  - {fileID: 11400000, guid: 78d9ad15002cd88429ba05e233ec2d4f, type: 2}
+  - {fileID: 11400000, guid: e4ea2d66866a8c6449551783e13e591c, type: 2}
+  - {fileID: 11400000, guid: 7aa38304cd685674d8cd2edbe4de0c21, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

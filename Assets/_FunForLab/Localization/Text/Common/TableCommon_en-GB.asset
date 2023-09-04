@@ -1,0 +1,381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableCommon_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 22fe75ed14e7487439122146cbe83d27, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 0
+  m_TableData:
+  - m_Id: 39429844992
+    m_Localized: FunForLab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 437549343571968
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 437959554891776
+    m_Localized: Difficulty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438343266598912
+    m_Localized: Secondary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439249445978112
+    m_Localized: MLT Apprentice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439545031163904
+    m_Localized: Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439686588923904
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439812023779328
+    m_Localized: Scenario 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439969050132480
+    m_Localized: Start game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440173505675264
+    m_Localized: Quit game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1907769396670464
+    m_Localized: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7258817648787456
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7259259757789184
+    m_Localized: Left Controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7259384118902784
+    m_Localized: Right Controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7260522813718528
+    m_Localized: 'Button A / X : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260659279593472
+    m_Localized: 'Button B / Y : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260723209175040
+    m_Localized: 'Left stick : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260835247423488
+    m_Localized: 'Right stick : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260887265181696
+    m_Localized: 'Trigger button : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7261031196917760
+    m_Localized: 'Grab button : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7261285753421824
+    m_Localized: Teleportation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261399033184256
+    m_Localized: Move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261434940620800
+    m_Localized: Turn camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261546500718592
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261678411579392
+    m_Localized: Catch an object
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7265660823535616
+    m_Localized: "Video player \u2013 {0}"
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7269842695618560
+    m_Localized: PDF viewer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10134046570164224
+    m_Localized: QC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10134146637869056
+    m_Localized: Archiving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813012065705984
+    m_Localized: Good answer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813085914816512
+    m_Localized: Bad answer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813352416698368
+    m_Localized: Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813391088181248
+    m_Localized: Statement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813687860355072
+    m_Localized: Answers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813951870820352
+    m_Localized: Respond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55098162506817536
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55872002342182912
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56157482936815616
+    m_Localized: Camera rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56160518295900160
+    m_Localized: Disabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56160602878234624
+    m_Localized: "By 45\xB0 strokes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56160905266581504
+    m_Localized: Free turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56175736698818560
+    m_Localized: Movements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56175859071832064
+    m_Localized: Teleport only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56175941070475264
+    m_Localized: Free movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56248965878632448
+    m_Localized: Simple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56249055062118400
+    m_Localized: Complexes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59047503603814400
+    m_Localized: Change appearance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59048462140690432
+    m_Localized: 'Security level :
+
+      {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 59048753728704512
+    m_Localized: Authorized access!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59048856745005056
+    m_Localized: Access denied!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59051452712996864
+    m_Localized: Access badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59052331474210816
+    m_Localized: 'Current badge security level: {0}
+
+      Increase to {1}?'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 59052736811749376
+    m_Localized: Increase the security level of a badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59052835499528192
+    m_Localized: Badge security level increased to {0}!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59054012605779968
+    m_Localized: Scan a badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59054502336909312
+    m_Localized: Terminal for badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59054948912844800
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59150264622239744
+    m_Localized: Portable Scanner / Magnifying glass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59150416795783168
+    m_Localized: Point to an item to scan it and get additional information...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60594998566903808
+    m_Localized: Door open!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60595045945761792
+    m_Localized: Ship take off!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60595120365297664
+    m_Localized: Space suit on!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60595156427923456
+    m_Localized: Medical suit on!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597781374361600
+    m_Localized: 'Objective:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597830376415232
+    m_Localized: Take the badge and open the door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597908524687360
+    m_Localized: Put on the spacesuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597957509963776
+    m_Localized: Get on the spaceship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60604030123958272
+    m_Localized: Talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60604563266134016
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858267859800064
+    m_Localized: Spaceship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858430879813632
+    m_Localized: Take off!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858883105476608
+    m_Localized: To the dressing capsules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858959613775872
+    m_Localized: To the spaceship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60880084724994048
+    m_Localized: Imminent take-off.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61239786684141568
+    m_Localized: No Current tasks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62773008246169600
+    m_Localized: Rest room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62775045365096448
+    m_Localized: Archive room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62785781713788928
+    m_Localized: Reception
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63038279442616320
+    m_Localized: Laboratory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124414592307200
+    m_Localized: Put the samples in the rack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124490257551360
+    m_Localized: Put the samples in the right fridges.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124543802036224
+    m_Localized: Put the rack with the samples in the FFL 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124599225569280
+    m_Localized: Launch the analysis of the FFL 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135883835671445504
+    m_Localized: End of chapter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155136042128756736
+    m_Localized: Automatic door closure.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0000323368cb1900000032f987cb19000000b2db96cb19000000b2f1b0cb19000000320ebdcb190000003291decb19000000727c14d0190000d06d7243c8d10000d02ded25cbd10000d0ad58c8cbd100

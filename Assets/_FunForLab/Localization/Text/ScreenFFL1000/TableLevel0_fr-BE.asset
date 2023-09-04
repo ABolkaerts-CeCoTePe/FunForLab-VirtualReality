@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableLevel0_fr-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-BE
+  m_SharedData: {fileID: 11400000, guid: 3b700d8fbde51a54580e561beca336e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 6947981209600
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7323522412544
+    m_Localized: Fichiers QC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7445123674112
+    m_Localized: "T\xE2ches"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7479424692224
+    m_Localized: "R\xE8gles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7528598712320
+    m_Localized: "Explorateur d'\xC9chantillons"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7566196453376
+    m_Localized: "Navigateur de Donn\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215463895040
+    m_Localized: Liste des Patients
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32997385678848
+    m_Localized: Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33380111724544
+    m_Localized: Lancer analyse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67922646249472
+    m_Localized: Positif
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68175730552832
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68507609051136
+    m_Localized: "N\xB0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68578203381760
+    m_Localized: Date
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68613120962560
+    m_Localized: Empl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68758889803776
+    m_Localized: Cmt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68938695421952
+    m_Localized: Hopt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69065271128064
+    m_Localized: "M\xE9d."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69130203148288
+    m_Localized: ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69204408774656
+    m_Localized: Pat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84839578710016
+    m_Localized: "Donn\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77843316060160
+    m_Localized: V
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78559728349184
+    m_Localized: Tests Discrets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79109299613696
+    m_Localized: Fonct.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79641493876736
+    m_Localized: Actions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79845139918848
+    m_Localized: Erreurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79967810727936
+    m_Localized: Distrib.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80289438347264
+    m_Localized: "Aucune donn\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81301733617664
+    m_Localized: Automatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81406809321472
+    m_Localized: Manuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81949036359680
+    m_Localized: Haut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81993038802944
+    m_Localized: Bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82262703190016
+    m_Localized: "Informations d\xE9taill\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82595785453568
+    m_Localized: "\xC9lem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82643881537536
+    m_Localized: "Donn\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82691696603136
+    m_Localized: "Unit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83356644782080
+    m_Localized: "N\xE9gatif"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83405911076864
+    m_Localized: "Valid\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85233675513856
+    m_Localized: Messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85480950706176
+    m_Localized: Graphs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89639330492416
+    m_Localized: Changer Mode d'Analyse & Tests Discrets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89977890516992
+    m_Localized: Mode d'Analyse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90597401800704
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90638162046976
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93964471611392
+    m_Localized: Lancement des analyses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94434455957504
+    m_Localized: "Rack enlev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94702543286272
+    m_Localized: "FFL 1000 pr\xEAt, ins\xE9rez un rack \xE0 \xE9chantillons"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94885364609024
+    m_Localized: "Pr\xEAt \xE0 lancer l'analyse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95530482118656
+    m_Localized: "Analyses termin\xE9es, sortie du rack"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95759088463872
+    m_Localized: "Analyses termin\xE9es, r\xE9cup\xE9rez le rack"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96073493491712
+    m_Localized: Emplacement {0} vide !
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 98199644909568
+    m_Localized: 'Emplacement {0} contient : {1}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2202237299568640
+    m_Localized: "Pas de QC pr\xE9sent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204283268476928
+    m_Localized: "QC pr\xE9sent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329870951579648
+    m_Localized: "FFL 1000 pas pr\xEAt, r\xE9actif {0} retir\xE9 !"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 12330302570627072
+    m_Localized: "FFL 1000 pas pr\xEAt, r\xE9actif {0} vide !"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 12396603779448832
+    m_Localized: "FFL 1000 pas pr\xEAt, r\xE9actif {0} insuffisant !"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00b073da6057000000b0f3e24f590000000032caf3cd2b000000b24858ce2b000000b23ca50a2c00

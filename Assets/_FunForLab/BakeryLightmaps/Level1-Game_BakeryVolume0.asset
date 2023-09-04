@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!117 &11700000
+Texture3D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Level1-Game_BakeryVolume0
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 3
+  m_ColorSpace: 0
+  m_Format: 48
+  m_Width: 1
+  m_Height: 2
+  m_Depth: 3
+  m_MipCount: 1
+  m_DataSize: 48
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_UsageMode: 0
+  m_IsReadable: 1
+  image data: 48
+  _typelessdata: 8f24b2224c2106240000000000000080b235f0342a3378a908358634bb32f5a3d623fa220722eaa2e446f643a23e9f44
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 

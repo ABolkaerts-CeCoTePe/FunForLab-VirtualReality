@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Prologue-Audio Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Prologue-Audio
+  m_TableCollectionNameGuidString: f798ca76d72ecc1419fb10dd8cbee6ca
+  m_Entries:
+  - m_Id: 17052598272
+    m_Key: Prologue-VoiceOver-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71977009152
+    m_Key: Prologue-VoiceOver-2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87466573824
+    m_Key: Prologue-VoiceOver-3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99151904768
+    m_Key: Prologue-VoiceOver-4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112749838336
+    m_Key: Prologue-VoiceOver-5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134140788736
+    m_Key: Prologue-VoiceOver-6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148904738816
+    m_Key: Prologue-VoiceOver-7
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 7539000812700696579
+  m_KeyGenerator:
+    rid: 7539000812700696578
+  references:
+    version: 2
+    RefIds:
+    - rid: 7539000812700696578
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1681462868714
+    - rid: 7539000812700696579
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 17052598272
+          m_TableCodes:
+          - en-GB
+        - m_KeyId: 71977009152
+          m_TableCodes:
+          - en-GB
+        - m_KeyId: 87466573824
+          m_TableCodes:
+          - en-GB
+        - m_KeyId: 99151904768
+          m_TableCodes:
+          - en-GB
+        - m_KeyId: 112749838336
+          m_TableCodes:
+          - en-GB
+        - m_KeyId: 134140788736
+          m_TableCodes:
+          - en-GB
+        - m_KeyId: 148904738816
+          m_TableCodes:
+          - en-GB
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

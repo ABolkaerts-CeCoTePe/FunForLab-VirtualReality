@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: e6d22e26513cc3e4fa2030f2fcc0fad7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12243500089868288
+    m_Localized: "Einf\xFChrung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12243537612111872
+    m_Localized: Schlussfolgerung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4275877576704
+    m_Localized: Neue Geschichte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4428554436608
+    m_Localized: Kapitel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4459030249472
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4545361608704
+    m_Localized: Ausfahrt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4579641655296
+    m_Localized: Story-Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4601233932288
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624864641024
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4710734626816
+    m_Localized: Kapitel 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4745694150656
+    m_Localized: Kapitel 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4766674059264
+    m_Localized: Kapitel 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4666765737984
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5069557334016
+    m_Localized: "Franz\xF6sisch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5089232814080
+    m_Localized: "Niederl\xE4ndisch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5132396396544
+    m_Localized: Deutsch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5355550146560
+    m_Localized: "W\xE4hlen Sie Ihre Sprache"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5661860167680
+    m_Localized: Englisch
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

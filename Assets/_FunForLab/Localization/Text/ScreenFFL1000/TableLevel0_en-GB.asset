@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableLevel0_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 3b700d8fbde51a54580e561beca336e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 6947981209600
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7323522412544
+    m_Localized: QC Files
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7445123674112
+    m_Localized: Work List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7479424692224
+    m_Localized: Rules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7528598712320
+    m_Localized: Sample Explorer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7566196453376
+    m_Localized: Data Browser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215463895040
+    m_Localized: Patient List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32997385678848
+    m_Localized: Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33380111724544
+    m_Localized: Start analysis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67922646249472
+    m_Localized: Positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68175730552832
+    m_Localized: Validate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68507609051136
+    m_Localized: No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68578203381760
+    m_Localized: Date
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68613120962560
+    m_Localized: Pos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68758889803776
+    m_Localized: Cmt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68938695421952
+    m_Localized: Hosp.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69065271128064
+    m_Localized: Doc.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69130203148288
+    m_Localized: ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69204408774656
+    m_Localized: Pat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84839578710016
+    m_Localized: Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77843316060160
+    m_Localized: V
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78559728349184
+    m_Localized: Discrete Tests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79109299613696
+    m_Localized: Funct.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79641493876736
+    m_Localized: Actions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79845139918848
+    m_Localized: Errors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79967810727936
+    m_Localized: Distrib.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80289438347264
+    m_Localized: No data.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81301733617664
+    m_Localized: Automatic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81406809321472
+    m_Localized: Manual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81949036359680
+    m_Localized: Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81993038802944
+    m_Localized: Down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82262703190016
+    m_Localized: Detailed information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82595785453568
+    m_Localized: Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82643881537536
+    m_Localized: Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82691696603136
+    m_Localized: Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83356644782080
+    m_Localized: Negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83405911076864
+    m_Localized: Validated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85233675513856
+    m_Localized: Messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85480950706176
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89639330492416
+    m_Localized: Change Analysis Mode & Discrete Tests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89977890516992
+    m_Localized: Analysis mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90597401800704
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90638162046976
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93964471611392
+    m_Localized: Launch of analyzes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94434455957504
+    m_Localized: Rack removed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94702543286272
+    m_Localized: FFL 1000 ready, insert sample rack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94885364609024
+    m_Localized: Ready to start analysis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95530482118656
+    m_Localized: Analyzes completed, out of the rack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95759088463872
+    m_Localized: Analyzes completed, retrieve the rack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96073493491712
+    m_Localized: Slot {0} empty!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 98199644909568
+    m_Localized: 'Slot {0} contains : {1}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2202237299568640
+    m_Localized: No QC present
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204283268476928
+    m_Localized: QC present
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12329870951579648
+    m_Localized: FFL 1000 not ready, reagent {0} removed !
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 12330302570627072
+    m_Localized: FFL 1000 not ready, reagent {0} empty !
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 12396603779448832
+    m_Localized: FFL 1000 not ready, insufficient {0} reagent !
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00b073da6057000000b0f3e24f590000000032caf3cd2b000000b24858ce2b000000b23ca50a2c00

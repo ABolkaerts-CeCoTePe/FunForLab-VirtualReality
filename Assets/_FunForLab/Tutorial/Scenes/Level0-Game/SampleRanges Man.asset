@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cce00d85cdf3844e99de78fff12fd93, type: 3}
+  m_Name: SampleRanges Man
+  m_EditorClassIdentifier: 
+  patientSex: 77
+  patientYearsMin: 20
+  patientYearsMax: 80
+  pregnant: 0
+  wBC_min: 4.3
+  wBC_max: 11.9
+  rBC_min: 4
+  rBC_max: 5.2
+  hGB_min: 11.7
+  hGB_max: 14
+  hCT_min: 35.2
+  hCT_max: 45.4
+  mCV_min: 80.9
+  mCV_max: 97.3
+  mCH_min: 26.5
+  mCH_max: 32.6
+  mCHC_min: -1
+  mCHC_max: -1
+  pLT_min: 170
+  pLT_max: 400
+  rDWSD_min: -1
+  rDWSD_max: -1
+  rDWCV_min: -1
+  rDWCV_max: -1
+  pDW_min: -1
+  pDW_max: -1
+  mPV_min: -1
+  mPV_max: -1
+  pLCR_min: -1
+  pLCR_max: -1
+  pCT_min: -1
+  pCT_max: -1
+  nRBCH_min: -1
+  nRBCH_max: -1
+  nRBCP_min: -1
+  nRBCP_max: -1
+  neutH_min: -1
+  neutH_max: -1
+  lymphH_min: -1
+  lymphH_max: -1
+  monoH_min: -1
+  monoH_max: -1
+  eoH_min: -1
+  eoH_max: -1
+  basoH_min: -1
+  basoH_max: -1
+  neutP_min: -1
+  neutP_max: -1
+  lymphP_min: -1
+  lymphP_max: -1
+  monoP_min: -1
+  monoP_max: -1
+  eoP_min: -1
+  eoP_max: -1
+  basoP_min: -1
+  basoP_max: -1
+  iGH_min: -1
+  iGH_max: -1
+  iGP_min: -1
+  iGP_max: -1
+  rETP_min: -1
+  rETP_max: -1
+  rETH_min: -1
+  rETH_max: -1
+  iRF_min: -1
+  iRF_max: -1
+  lFR_min: -1
+  lFR_max: -1
+  mFR_min: -1
+  mFR_max: -1
+  hFR_min: -1
+  hFR_max: -1
+  rETHe_min: -1
+  rETHe_max: -1
+  iPF_min: -1
+  iPF_max: -1
+  wBCBF_min: -1
+  wBCBF_max: -1
+  rBCBF_min: -1
+  rBCBF_max: -1
+  mNH_min: -1
+  mNH_max: -1
+  pMNH_min: -1
+  pMNH_max: -1
+  mNP_min: -1
+  mNP_max: -1
+  pMNP_min: -1
+  pMNP_max: -1
+  tCBFH_min: -1
+  tCBFH_max: -1

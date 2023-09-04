@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: e6d22e26513cc3e4fa2030f2fcc0fad7, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2922099813958287388
+  m_TableData:
+  - m_Id: 5069557334016
+    m_Localized: French
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4766674059264
+    m_Localized: Chapter 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4745694150656
+    m_Localized: Chapter 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4710734626816
+    m_Localized: Chapter 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4666765737984
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4624864641024
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4601233932288
+    m_Localized: Welcome to the "Story" mode of our virtual reality game. This mode
+      begins with a tutorial to help you master the laboratory skills needed to monitor
+      the health of the crew and passengers aboard the spacecraft. Once you have
+      acquired these skills, you will be immersed in a series of exciting scenarios
+      where you will need to demonstrate problem-solving and quick decision-making
+      skills to ensure the safety and health of everyone on board. You will encounter
+      challenges and obstacles throughout your journey, but your expertise as a medical
+      technologist will be put to the test. Will you dare to take on the challenge
+      of this critical space mission? Immerse yourself in this captivating adventure
+      where your laboratory skills and teamwork spirit will be tested to successfully
+      complete this historic mission.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4579641655296
+    m_Localized: Story Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4545361608704
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4275877576704
+    m_Localized: New Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4428554436608
+    m_Localized: Chapters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4459030249472
+    m_Localized: 'Settings
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5089232814080
+    m_Localized: Dutch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5132396396544
+    m_Localized: German
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5355550146560
+    m_Localized: Pick your language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5661860167680
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12243500089868288
+    m_Localized: Introduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12243537612111872
+    m_Localized: Conclusion
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2922099813958287388
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00006a395202000000006af221000000

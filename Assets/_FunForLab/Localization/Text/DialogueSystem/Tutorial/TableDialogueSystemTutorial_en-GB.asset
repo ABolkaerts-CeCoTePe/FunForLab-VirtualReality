@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableDialogueSystemTutorial_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 727e75f0f83b43c47b75f59a5f4cd4b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1057805963218944
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218945
+    m_Localized: Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218971
+    m_Localized: Stay in the Tutorial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218954
+    m_Localized: Good ! To start, you have to open the [em1]door of the dress-up
+      capsules[/em1] by picking up your [em1]badge[/em1], so that you can put on
+      your space suit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218953
+    m_Localized: Ok, I understood everything.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218951
+    m_Localized: You can use the [em1]Joystick[/em1] on the left controller to move
+      around manually.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218950
+    m_Localized: You can move around by moving in the real world, while being careful
+      not to leave your VR game area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218949
+    m_Localized: To move, you can teleport by holding down the [em1]A[/em1] (or [em1]X[/em1])
+      [em1]Button[/em1] on your controllers, which will cause a laser to appear.
+      By releasing the button, you will teleport to where the laser is pointing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218948
+    m_Localized: I hope the ride to the center in the air bus went well. Come with
+      me and I will explain the different procedures before boarding.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218947
+    m_Localized: Welcome to the Earth To Mars Rescue (EMR) boarding center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218958
+    m_Localized: Now that the door is open, you can go inside the [em1]capsule[/em1]
+      to put on your space suit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218960
+    m_Localized: I'm going there !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218961
+    m_Localized: Go put on your spacesuit in the [em1]capsule[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218962
+    m_Localized: 'Well done, I think you are now ready to go to SPACE !!! Follow
+      me, we''re going to head to the boarding area.
+
+      No antenna, I''m excited
+      !'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218964
+    m_Localized: Let's go!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218965
+    m_Localized: Head to the [em1]ship[/em1] and take off!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218966
+    m_Localized: Cheer! Here we go to the space laboratory!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218967
+    m_Localized: You have completed the Tutorial! You now have access to the other
+      scenarios!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218969
+    m_Localized: Exit the Tutorial and return to the Main Menu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218972
+    m_Localized: To move, you can teleport by holding down the [em1]Trigger Button[/em1]
+      on one of your controllers, which will cause a laser to appear. By releasing
+      the button, you will teleport to where the laser is pointing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218973
+    m_Localized: Finally, you can use the [em1]Joystick[/em1] on the right controller
+      to rotate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218957
+    m_Localized: Take this [em1]badge[/em1] to open the [em1]dress-up capsules door[/em1]
+      so you can put on your space suit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218956
+    m_Localized: I'm taking care of it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2517788999405568
+    m_Localized: Your badge is at the [em1]reception[/em1]. I'm waiting for you there.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

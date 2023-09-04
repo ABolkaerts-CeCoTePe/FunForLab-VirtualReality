@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4b3cbd59617a644878aedb71354d03, type: 3}
+  m_Name: PDFDataBrochureHEPL
+  m_EditorClassIdentifier: 
+  fileName: Brochures TLM HEPL
+  pages:
+  - {fileID: 2800000, guid: c26652018718208419265272b4caa2e6, type: 3}
+  - {fileID: 2800000, guid: 2c60901221baceb4885f5d01ec052e60, type: 3}
+  - {fileID: 2800000, guid: f44e13510c2ab37478f6d7debcf0f359, type: 3}
+  - {fileID: 2800000, guid: dd5c5b23e659d2f439c2616e88e1e965, type: 3}
+  - {fileID: 2800000, guid: f84a1962d50625b4492ed7e2d7049e24, type: 3}
+  - {fileID: 2800000, guid: 59fb67bd1ae41414d9495ead3b81a23e, type: 3}
+  - {fileID: 2800000, guid: a122428eb95690f46abe8350f456ca22, type: 3}
+  - {fileID: 2800000, guid: 6aad9463079f0f94984dbf934e8f961a, type: 3}
+  lang: 0

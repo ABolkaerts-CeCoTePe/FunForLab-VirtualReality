@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab66726437d0cd4c8f6fd174501ac27, type: 3}
+  m_Name: SampleQCData
+  m_EditorClassIdentifier: 
+  sampleType: 1
+  typeFonctionnement: 0
+  modeAnalyse: 0
+  testsDiscrets: 
+  positive: 0
+  validated: 0
+  sampleID: QC-11223344
+  dateCollect: 17/09/2022 13:00
+  collectID: ID0000
+  arm: 0
+  emplacementRack: 
+  qcPresent: 0
+  mixed: 0
+  commentSample: 
+  hospital: FunForLab
+  doctor: "M\xE9decin 2"
+  patientID: 112233445566778
+  patientBirthday: 01/01/2022
+  patientSex: 77
+  patientYears: 0
+  patientName: QC
+  commentPatient: 
+  wBC: 14.2
+  rBC: 4.32
+  hGB: 12.3
+  hCT: 40
+  mCV: 92.3
+  mCH: 27.8
+  mCHC: 33.3
+  pLT: 300
+  rDWSD: 0
+  rDWCV: 0
+  pDW: 0
+  mPV: 0
+  pLCR: 0
+  pCT: 0
+  nRBCH: 0
+  nRBCP: 0
+  neutH: 0
+  lymphH: 0
+  monoH: 0
+  eoH: 0
+  basoH: 0
+  neutP: 0
+  lymphP: 0
+  monoP: 0
+  eoP: 0
+  basoP: 0
+  iGH: 0
+  iGP: 0
+  rETP: 0
+  rETH: 0
+  iRF: 0
+  lFR: 0
+  mFR: 0
+  hFR: 0
+  rETHe: 0
+  iPF: 0
+  wBCBF: 0
+  rBCBF: 0
+  mNH: 0
+  pMNH: 0
+  mNP: 0
+  pMNP: 0
+  tCBFH: 0
+  wBCFlags: 
+  rBCFlags: 
+  pLTFlags: 
+  actions: 
+  errors: 

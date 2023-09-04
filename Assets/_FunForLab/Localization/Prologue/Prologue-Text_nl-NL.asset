@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prologue-Text_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: e21a40d7bff1d7d4b859757920d5a8cd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50690916352
+    m_Localized: "2051, ondanks talloze waarschuwingen van wetenschappelijke experts
+      en alarmerende rapporten van de IPCC in de afgelopen decennia, zijn de maatregelen
+      die zijn genomen om klimaatveranderingen te bestrijden onvoldoende. Natuurrampen,
+      oorlogen en virusepidemie\xEBn zijn toegenomen. Smeltend ijs zorgt ervoor dat
+      de wateren stijgen, waardoor veel delen van de wereld onherbergzaam zijn. Met
+      de hulp van de grootste multinationals, hebben de regeringen van veel landen
+      de kolonisatie van de planeet Mars georganiseerd om de mensheid te redden,
+      Mission wordt EMR genoemd (Earth to Mars Rescue)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405034106880
+    m_Localized: "Het leven op aarde wordt steeds gecompliceerder en gevaarlijker
+      als natuurrampen (overstromingen, aardbevingen, tornado's, tsunami's), verschillende
+      epidemie\xEBn en koude en hittegolven doden mensen. Iedereen wil zo snel mogelijk
+      vertrekken voor Mars om hun leven en die van hun geliefden te redden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532490616832
+    m_Localized: Het zal enkele decennia duren voordat de hele mensheid kan worden
+      overgebracht naar de rode planeet. Prioriteit wordt gegeven aan mensen met
+      nuttige mogelijkheden die moeten worden gecertificeerd door laboratoria. Iedereen
+      heeft bloedtestresultaten nodig om hun toepassingen te valideren en sommige
+      beroepen vereisen specifieke vaardigheden die moeten worden bewezen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619086217216
+    m_Localized: De inzet die betrokken zijn bij de resultaten van bloedtesten die
+      worden uitgevoerd in overheidslaboratoria zijn daarom enorm. Mensen die hun
+      toegang tot het ruimtevaartuig valideren, mogen hun familieleden meenemen.
+      Het gerucht gaat dat lokale maffia de controle over sommige laboratoria hebben
+      overgenomen en tests vervalst voor grote sommen geld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736296042496
+    m_Localized: "U bent een pas afgestudeerd medisch laboratoriumtechnoloog wiens
+      ouders politieagenten waren met een voorbeeldige servicecords en carri\xE8res.
+      Ze stierven allebei als helden toen ze hun leven riskeerden om 78 kinderen
+      op een school te redden tijdens de Vis\xE9-overstromingen in augustus 2046.
+      Je 6-jarige zus, Lilou, is astmatisch en heeft moeite om het weer van de aarde
+      te overleven. Om haar te redden, wilt u een baan vinden waarmee u uw toegang
+      tot de rode planeet kunt valideren en uw zus zo snel mogelijk mee naartoe kunt
+      nemen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814859550720
+    m_Localized: "Met het oog op het servicecord van uw ouders heeft de Europese
+      geheime dienst contact met u opgenomen om u een missie te geven: om een \u200B\u200Bverlaten
+      laboratorium in het dorp Luttachestricht opnieuw te onderzoeken, dat wordt
+      gedomineerd door de verschrikkelijke lokale maffia, Balmont Family. U moet
+      bloedmonsters opnieuw testen om de authenticiteit van de laboratoriumresultaten
+      te verifi\xEBren. Als u helpt om de maffia te ontmantelen, zal de overheid
+      u inhuren als een medisch laboratoriumtechnoloog voor missies aan Mars."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887433592832
+    m_Localized: Voor het opsplitsen van een maffia -testring op aarde, hebben u
+      en uw zus toegang tot de shuttle naar de rode planeet. Deze tweede aflevering
+      van het spel begint bij het instappen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21935138930688
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862615220224
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

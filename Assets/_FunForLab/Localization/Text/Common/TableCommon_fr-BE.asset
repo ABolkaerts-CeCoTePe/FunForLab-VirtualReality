@@ -1,0 +1,379 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableCommon_fr-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-BE
+  m_SharedData: {fileID: 11400000, guid: 22fe75ed14e7487439122146cbe83d27, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 0
+  m_TableData:
+  - m_Id: 39429844992
+    m_Localized: FunForLab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 437549343571968
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 437959554891776
+    m_Localized: "Difficult\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438343266598912
+    m_Localized: Secondaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439249445978112
+    m_Localized: Apprenti TLM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439545031163904
+    m_Localized: "Sc\xE9nario"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439686588923904
+    m_Localized: Tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439812023779328
+    m_Localized: "Sc\xE9nario 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439969050132480
+    m_Localized: Lancer le jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440173505675264
+    m_Localized: Quitter le jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1907769396670464
+    m_Localized: "Termin\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7258817648787456
+    m_Localized: "Contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7259259757789184
+    m_Localized: Manette gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7259384118902784
+    m_Localized: Manette droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7260522813718528
+    m_Localized: 'Bouton A / X : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260659279593472
+    m_Localized: 'Bouton B / Y : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260723209175040
+    m_Localized: 'Stick gauche : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260835247423488
+    m_Localized: 'Stick droit : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7260887265181696
+    m_Localized: 'Bouton Trigger : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7261031196917760
+    m_Localized: 'Bouton Grab : {action}'
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7261285753421824
+    m_Localized: "T\xE9l\xE9portation"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261399033184256
+    m_Localized: "Se d\xE9placer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261434940620800
+    m_Localized: "Tourner la cam\xE9ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261546500718592
+    m_Localized: Interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261678411579392
+    m_Localized: Attrapper un objet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7265660823535616
+    m_Localized: "Lecteur vid\xE9o \u2013 {0}"
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 7269842695618560
+    m_Localized: Visionneuse de PDF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10134046570164224
+    m_Localized: QC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10134146637869056
+    m_Localized: Archivage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813012065705984
+    m_Localized: "Bonne r\xE9ponse !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813085914816512
+    m_Localized: "Mauvaise r\xE9ponse !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813352416698368
+    m_Localized: Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813391088181248
+    m_Localized: "\xC9nonc\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813687860355072
+    m_Localized: "R\xE9ponses"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54813951870820352
+    m_Localized: "R\xE9pondre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55098162506817536
+    m_Localized: Fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55872002342182912
+    m_Localized: "Vid\xE9o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56157482936815616
+    m_Localized: "Rotation de la cam\xE9ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56160518295900160
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56160602878234624
+    m_Localized: "Par accoups de 45\xB0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56160905266581504
+    m_Localized: Rotation libre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56175736698818560
+    m_Localized: Mouvements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56175859071832064
+    m_Localized: "T\xE9l\xE9portation uniquement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56175941070475264
+    m_Localized: Mouvement libre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56248965878632448
+    m_Localized: Simples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56249055062118400
+    m_Localized: Complexes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59047503603814400
+    m_Localized: Changer d'apparence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59048462140690432
+    m_Localized: "Niveau de s\xE9curit\xE9 :\n{0}"
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 59048753728704512
+    m_Localized: "Acc\xE8s autoris\xE9 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59048856745005056
+    m_Localized: "Acc\xE8s refus\xE9 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59051452712996864
+    m_Localized: "Badge d'acc\xE8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59052331474210816
+    m_Localized: "Niveau de s\xE9curit\xE9 actuel du badge : {0}\nAugmenter \xE0
+      {1} ?"
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 59052736811749376
+    m_Localized: "Augmenter le niveau de s\xE9curit\xE9 d'un badge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59052835499528192
+    m_Localized: "Niveau de s\xE9curit\xE9 du badge augment\xE9 \xE0 {0} !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59054012605779968
+    m_Localized: Scannez un badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59054502336909312
+    m_Localized: Borne pour badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59054948912844800
+    m_Localized: Confirmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59150264622239744
+    m_Localized: Scanner / Loupe portable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59150416795783168
+    m_Localized: "Pointez un \xE9l\xE9ment pour le scanner et obtenir des informations
+      suppl\xE9mentaires ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60594998566903808
+    m_Localized: Porte ouverte !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60595045945761792
+    m_Localized: "D\xE9collage du vaisseau !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60595120365297664
+    m_Localized: "Combinaison spatiale enfil\xE9e !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60595156427923456
+    m_Localized: "Combinaison m\xE9dicale enfil\xE9e !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597781374361600
+    m_Localized: 'Objectif :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597830376415232
+    m_Localized: Prendre le badge et ouvrir la porte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597908524687360
+    m_Localized: Enfiler la combinaison spatiale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60597957509963776
+    m_Localized: Monter dans le vaisseau spatial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60604030123958272
+    m_Localized: Parler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60604563266134016
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858267859800064
+    m_Localized: Vaisseau spatial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858430879813632
+    m_Localized: "D\xE9coller !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858883105476608
+    m_Localized: Vers les capsules d'habillage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60858959613775872
+    m_Localized: Vers le vaisseau spatial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60880084724994048
+    m_Localized: "D\xE9collage imminent."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61239786684141568
+    m_Localized: "Aucune t\xE2che en cours."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62773008246169600
+    m_Localized: Salle de repos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62775045365096448
+    m_Localized: Salle des archives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62785781713788928
+    m_Localized: "R\xE9ception"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63038279442616320
+    m_Localized: Laboratoire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124414592307200
+    m_Localized: "Mettre les \xE9chantillons dans le rack."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124490257551360
+    m_Localized: "Mettres les \xE9chantillons dans les bons frigos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124543802036224
+    m_Localized: "Mettre le rack avec les \xE9chantillons dans le FFL 1000."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63124599225569280
+    m_Localized: Lancer l'analyse du FFL 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135883835671445504
+    m_Localized: Fin du chapitre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155136042128756736
+    m_Localized: Fermeture automatique de la porte.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0000323368cb1900000032f987cb19000000b2db96cb19000000b2f1b0cb19000000320ebdcb190000003291decb19000000727c14d0190000d06d7243c8d10000d02ded25cbd10000d0ad58c8cbd100

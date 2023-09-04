@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableDialogueSystemScenario1_fr-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-BE
+  m_SharedData: {fileID: 11400000, guid: 706887daacf1fec4db098da0995d713d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1155912359988
+    m_Localized: "Quitter le Sc\xE9nario 1 et revenir au Menu Principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359987
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359986
+    m_Localized: "Parfait ! C'en est fini pour les analyses. On peut passer \xE0
+      la suite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359985
+    m_Localized: "Place les \xE9chantillons de Contr\xF4le (QC) et de sang (CBC)
+      dans les [em1]bons frigos[/em1]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359984
+    m_Localized: Je m'en occupe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359983
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359982
+    m_Localized: "L'\xE9chantillon de Contr\xF4le (QC) doit aller dans le [em1]frigo
+      de QC[/em1], tandis que celui de sang (CBC) doit aller dans le [em1]frigo d'archivage[/em1]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359981
+    m_Localized: "Bien ! Maintenant que l'automate \xE0 fini d'analyser l'\xE9chantillon,
+      tu peux aller [em1]mettre les \xE9chantillons dans les bons frigos qui sont
+      dans la salle des archives[/em1]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359980
+    m_Localized: Attendons que l'automate ait fini de faire l'analyse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359979
+    m_Localized: '[em1]Lance l''analyse[/em1] sur l''automate FFL 1000.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359978
+    m_Localized: C'est parti !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359977
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359976
+    m_Localized: "Il est temps de [em1]lancer l'analyse[/em1] de l'automate maintenant
+      que les \xE9chantillons sont en place."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359975
+    m_Localized: "Positionne le rack avec les \xE9chantillons dans l'[em1]automate
+      FFL 1000[/em1]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359974
+    m_Localized: OK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359973
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359972
+    m_Localized: "Tu peux maintenant [em1]placer le rack avec les \xE9chantillons
+      dans l'automate FFL 1000[/em1], sur sa partie droite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359971
+    m_Localized: "Place dans un rack un [em1]\xE9chantillon de Contr\xF4le (QC)[/em1]
+      ainsi que l'[em1]\xE9chantillon de sang (CBC)[/em1] que tu dois analyser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359970
+    m_Localized: J'y vais.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359969
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359968
+    m_Localized: "Va dans le laboratoire avec cet \xE9chantillon, et place dans un
+      rack un [em1]\xE9chantillon de Contr\xF4le (QC)[/em1] ainsi que l'[em1]\xE9chantillon
+      de sang (CBC)[/em1]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359967
+    m_Localized: "Il faut que tu analyse cet [em1]\xE9chantillon CBC[/em1] avec l'[em1]automate
+      FFL 1000[/em1]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155912359966
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155916554240
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155916554241
+    m_Localized: "Rester dans le Sc\xE9nario 1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429504
+    m_Localized: "Bonjour ! [em1]Suis-moi \xE0 la r\xE9ception[/em1], on va aller
+      [em1]r\xE9cup\xE9rer l'\xE9chantillon que tu dois analyser[/em1]. C'est derri\xE8re
+      cette porte sur la gauche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429505
+    m_Localized: "Tu peux aussi [em1]prendre ton scanner si tu as besoin d'obtenir
+      des informations d\xE9taill\xE9es[/em1]. Tu peux le [em1]placer dans tes poches[/em1],
+      tout comme ton badge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429506
+    m_Localized: "Tu auras pour cela besoin de ton [em1]badge d'acc\xE8s[/em1] que
+      voici. Scanne-le pr\xE8s d'une porte pour l'ouvrir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429507
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429508
+    m_Localized: Je te suis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429509
+    m_Localized: Je t'attend dans le laboratoire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335372289429510
+    m_Localized: "Il ne reste plus que cela \xE0 faire, je t'attend dans les archives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340505425465344
+    m_Localized: Si tu veux avant, tu peux toujours te [em1]changer dans la capsule[/em1]
+      qui est ici sur ta gauche.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

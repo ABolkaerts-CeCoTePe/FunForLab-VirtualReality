@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Level 1 - Sylvia
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 2ae43ed83a5ab414b9d0007d08eb9aca, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: fe7e74911f5d29b418341552aaa47a69, type: 2}
+  - {fileID: 11400000, guid: 76d432b352f39094e82402a805f8d70a, type: 2}
+  - {fileID: 11400000, guid: 98ef60931ddb97747bb3593ad79ae17e, type: 2}
+  - {fileID: 11400000, guid: 5cbe83bb1e2da6e4b8a7c5863f4877c7, type: 2}
+  - {fileID: 11400000, guid: f7a68c01463fa5a4f9ba86ab2e5b0d2b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,386 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: EarthTutorial_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 53dd903d64b922b4aad817b462cddcf5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63383392256
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363776
+    m_Localized: AILA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363777
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363778
+    m_Localized: Welcome to the Earth To Mars Rescue (EMR) boarding center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363779
+    m_Localized: This is your level 4 access badge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363780
+    m_Localized: It allows you to access area prohibited to the public.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363781
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363782
+    m_Localized: I hope the ride to the center in the air bus went well.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363783
+    m_Localized: Come with me and I will explain the different procedures before
+      boarding.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363784
+    m_Localized: First of all, let me introduce myself. I'm AILA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363785
+    m_Localized: I am your robot assistant and I will accompagny you on this journey.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63404363786
+    m_Localized: I have heard a lot about you and your scientific achievements!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558080
+    m_Localized: I was looking forward to meeting you in the flesh!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558081
+    m_Localized: Before starting your training, I'm going to do a basic test.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558082
+    m_Localized: We are going to see if you can perform various simple actions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558083
+    m_Localized: I've got an anecdote that's guaranteed to make you raise an eyebrow
+      or two.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558084
+    m_Localized: Yesterday, I checked an astronaut and he had Trappist beer in his
+      flask!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558085
+    m_Localized: In 2051, you really don't know who you can trust anymore...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558086
+    m_Localized: Follow me to the counter, I'll give you your access to the secured
+      area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558087
+    m_Localized: Follow me to the secured door, I'll show you how you can open it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558088
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558089
+    m_Localized: To open this door, wave your badge in front of this scanner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558090
+    m_Localized: Great! Now follow me to the next room, I'll show you how to change
+      your suit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558091
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558092
+    m_Localized: As we are about to embark on our take-off capsule, your laboratory
+      outfit is not the most suitable.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558093
+    m_Localized: This is our newest automatic cloakroom model.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558094
+    m_Localized: Go in and put on your space suit, I'll wait here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558095
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558096
+    m_Localized: Wow, you've done well!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558097
+    m_Localized: I'm now satisifed that you are healthy and in full control of yourself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558098
+    m_Localized: Follow me to the next room, I've beautiful things to show you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558099
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558100
+    m_Localized: Here are works of arts by artists from Earth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558101
+    m_Localized: They reflect their vision of a better futur on the red planet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558102
+    m_Localized: I leave you time to admire them. I'll be waiting you at the exit
+      doors.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558103
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558104
+    m_Localized: Let's hurry up, we are expected!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558105
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558106
+    m_Localized: Impressive, isn't it? This base is currently the largest in the
+      world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558107
+    m_Localized: By 2053, we hope to send over 5 millions people to Mars.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558108
+    m_Localized: This is the big day my friend, I hope you are ready!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558109
+    m_Localized: Yes, I am!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558110
+    m_Localized: This is our capsule, it will take us to our main ship, the XRFFL836
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558111
+    m_Localized: This new generation shuttle takes us to the main ship in less than
+      two days.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558112
+    m_Localized: Get in the seat, we are about to take off.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558113
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558114
+    m_Localized: We are ready to go. Don't forget to buckle your belt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558115
+    m_Localized: Use the computer to close the door and then start the take-off.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558116
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558117
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558118
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558119
+    m_Localized: "Il faut que tu analyse cet \uFFFDchantillon CBC avec l'automate
+      FFL 1000."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558120
+    m_Localized: "Va dans le laboratoire avec cet \uFFFDchantillon, et place dans
+      un rack un \uFFFDchantillon de Contr\uFFFDle (QC) ainsi que l'\uFFFDchantillon
+      de sang (CBC)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558121
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558122
+    m_Localized: J'y vais.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558123
+    m_Localized: "Place dans un rack un \uFFFDchantillon de Contr\uFFFDle (QC) ainsi
+      que l'\uFFFDchantillon de sang (CBC) que tu dois analyser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558124
+    m_Localized: "Tu peux maintenant placer le rack avec les \uFFFDchantillons dans
+      l'automate FFL 1000, sur sa partie droite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558125
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558126
+    m_Localized: OK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558127
+    m_Localized: "Positionne le rack avec les \uFFFDchantillons dans l'automate FFL
+      1000."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558128
+    m_Localized: "Il est temps de lancer l'analyse de l'automate maintenant que les
+      \uFFFDchantillons sont en place."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558129
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558130
+    m_Localized: C'est parti !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558131
+    m_Localized: Lance l'analyse sur l'automate FFL 1000.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558132
+    m_Localized: Attendons que l'automate ait fini de faire l'analyse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558133
+    m_Localized: "Bien ! Maintenant que l'automate \uFFFD fini d'analyser l'\uFFFDchantillon,
+      tu peux aller mettre les \uFFFDchantillons dans les bons frigos qui sont dans
+      la salle des archives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558134
+    m_Localized: "L'\uFFFDchantillon de Contr\uFFFDle (QC) doit aller dans le frigo
+      de QC, tandis que celui de sang (CBC) doit aller dans le frigo d'archivage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558135
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558136
+    m_Localized: Je m'en occupe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558137
+    m_Localized: "Place les \uFFFDchantillons de Contr\uFFFDle (QC) et de sang (CBC)
+      dans les bons frigos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558138
+    m_Localized: "Parfait ! C'en est fini pour les analyses. On peut passer \uFFFD
+      la suite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558139
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558140
+    m_Localized: "Quitter le Sc\uFFFDnario 1 et revenir au Menu Principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558141
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558142
+    m_Localized: "Rester dans le Sc\uFFFDnario 1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558143
+    m_Localized: "Bonjour ! Suis-moi \uFFFD la r\uFFFDception, on va aller r\uFFFDcup\uFFFDrer
+      l'\uFFFDchantillon que tu dois analyser. C'est derri\uFFFDre cette porte sur
+      la gauche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558144
+    m_Localized: "Tu peux aussi prendre ton scanner si tu as besoin d'obtenir des
+      informations d\uFFFDtaill\uFFFDes. Tu peux le placer dans tes poches, tout
+      comme ton badge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558145
+    m_Localized: "Tu auras pour cela besoin de ton badge d'acc\uFFFDs que voici.
+      Scanne-le pr\uFFFDs d'une porte pour l'ouvrir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558146
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558147
+    m_Localized: Je te suis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558148
+    m_Localized: Je t'attend dans le laboratoire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558149
+    m_Localized: "Il ne reste plus que cela \uFFFD faire, je t'attend dans les archives."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558150
+    m_Localized: Si tu veux avant, tu peux toujours te changer dans la capsule qui
+      est ici sur ta gauche.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63408558151
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

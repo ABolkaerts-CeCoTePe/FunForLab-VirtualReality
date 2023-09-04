@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prologue-Text_fr-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-BE
+  m_SharedData: {fileID: 11400000, guid: e21a40d7bff1d7d4b859757920d5a8cd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50690916352
+    m_Localized: "2051, malgr\xE9 de nombreux avertissements d'experts scientifiques
+      et des rapports alarmants du GIEC au cours des derni\xE8res d\xE9cennies, les
+      mesures prises pour lutter contre les changements climatiques sont insuffisantes.
+      Les catastrophes naturelles, les guerres et les \xE9pid\xE9mies virales ont
+      augment\xE9. La fusion de la glace fait monter les eaux, rendant de nombreuses
+      parties du monde inhospitali\xE8res. Avec l'aide des plus grandes multinationales,
+      les gouvernements de nombreux pays ont organis\xE9 la colonisation de la plan\xE8te
+      Mars pour sauver l'humanit\xE9, la mission est appel\xE9e EMR (Earth to Mars
+      Rescue)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405034106880
+    m_Localized: "La vie sur Terre devient de plus en plus compliqu\xE9e et dangereuse
+      que les catastrophes naturelles (inondations, tremblements de terre, tornades,
+      tsunamis), diverses \xE9pid\xE9mies et des vagues de froid et de chaleur tuent
+      des gens. Tout le monde veut partir le plus t\xF4t possible pour que Mars sauve
+      sa vie et ceux de leurs proches."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532490616832
+    m_Localized: "Il faudra plusieurs d\xE9cennies avant que toute l'humanit\xE9
+      puisse \xEAtre transf\xE9r\xE9e sur la plan\xE8te rouge. La priorit\xE9 est
+      donn\xE9e aux personnes ayant des capacit\xE9s utiles qui doivent \xEAtre certifi\xE9es
+      par des laboratoires. Tout le monde a besoin de r\xE9sultats de tests sanguins
+      pour valider ses applications et certaines professions n\xE9cessitent des capacit\xE9s
+      sp\xE9cifiques qui doivent \xEAtre prouv\xE9es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619086217216
+    m_Localized: "Les enjeux impliqu\xE9s dans les r\xE9sultats des tests sanguins
+      effectu\xE9s dans les laboratoires du gouvernement sont donc \xE9normes. Les
+      personnes qui valident leur acc\xE8s \xE0 l'engin spatial sont autoris\xE9es
+      \xE0 emmener les membres de leur famille avec eux. La rumeur veut que la mafia
+      locale ait pris le contr\xF4le de certains laboratoires et falsifie des tests
+      pour de grosses sommes d'argent."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736296042496
+    m_Localized: "Vous \xEAtes un technologue de laboratoire m\xE9dical nouvellement
+      dipl\xF4m\xE9 dont les parents \xE9taient des policiers avec des dossiers de
+      services exemplaires et des carri\xE8res. Ils sont tous deux morts en h\xE9ros
+      lorsqu'ils ont risqu\xE9 leur vie pour sauver 78 enfants dans une \xE9cole
+      pendant les inondations de vis\xE9 en ao\xFBt 2046. Votre s\u0153ur de 6 ans,
+      Lilou, est asthmatique et a du mal \xE0 survivre au temps de la Terre. Pour
+      la sauver, vous voulez trouver un emploi qui vous permettrait de valider votre
+      acc\xE8s \xE0 la plan\xE8te rouge et d'emmener votre s\u0153ur avec vous d\xE8s
+      que possible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814859550720
+    m_Localized: "Compte tenu du dossier de service de vos parents, les services
+      secrets europ\xE9ens vous ont contact\xE9 pour vous donner une mission: pour
+      r\xE9investir un laboratoire abandonn\xE9 dans le village de Limburg de Luttachestricht,
+      qui est domin\xE9 par la terrible mafia locale, la famille Balmont. Vous devez
+      retester les \xE9chantillons de sang pour v\xE9rifier l'authenticit\xE9 des
+      r\xE9sultats de laboratoire. Si vous aidez \xE0 d\xE9manteler la mafia, le
+      gouvernement vous embauchera en tant que technologue de laboratoire m\xE9dical
+      pour les missions \xE0 Mars."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 887433592832
+    m_Localized: "Pour briser un anneau de falsification de test de mafia sur Terre,
+      vous et votre s\u0153ur avez acc\xE8s \xE0 la navette sur la plan\xE8te rouge.
+      Ce deuxi\xE8me \xE9pisode du jeu commence \xE0 l'embarquement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862615220224
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21935138930688
+    m_Localized: Passer
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

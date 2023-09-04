@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableDialogueSystemTutorial_fr-BE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-BE
+  m_SharedData: {fileID: 11400000, guid: 727e75f0f83b43c47b75f59a5f4cd4b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1057805963218970
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218966
+    m_Localized: Bravo ! C'est parti pour le laboratoire spatial !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218950
+    m_Localized: "Vous pouvez vous d\xE9placer en vous d\xE9pla\xE7ant dans le monde
+      r\xE9el, tout en veillant \xE0 ne pas quitter votre zone de jeu VR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218960
+    m_Localized: Je m'y rends !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218958
+    m_Localized: Maintenant que la porte est ouverte, tu peux entrer dans la [em1]capsule[/em1]
+      pour enfiler ta combinaison spatiale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218973
+    m_Localized: Enfin, tu peux utiliser le [em1]Joystick[/em1] de la manette droite
+      pour pivoter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218957
+    m_Localized: Prends ce [em1]badge[/em1] pour ouvrir la [em1]porte du vestiaire[/em1]
+      afin d'enfiler ta combinaison spatiale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218963
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218956
+    m_Localized: Je m'en charge !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218945
+    m_Localized: Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218949
+    m_Localized: "Pour vous d\xE9placer, vous pouvez vous t\xE9l\xE9porter en maintenant
+      enfonc\xE9 le [em1]bouton[/em1] [em1]A[/em1] (ou [em1]X[/em1]) de vos manettes,
+      ce qui fera appara\xEEtre un laser. En rel\xE2chant le bouton, vous vous t\xE9l\xE9porterez
+      \xE0 l'endroit o\xF9 pointe le laser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218947
+    m_Localized: Bienvenue au centre d'embarquement de Earth To Mars Rescue (EMR).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218955
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218954
+    m_Localized: "Bien ! Pour commencer, vous devez ouvrir la [em1]porte des capsules
+      habill\xE9es[/em1] en ramassant votre [em1]badge[/em1], afin de pouvoir enfiler
+      votre combinaison spatiale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218952
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218951
+    m_Localized: "Vous pouvez utiliser le [em1]Joystick[/em1] de la manette gauche
+      pour vous d\xE9placer manuellement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218959
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218944
+    m_Localized: Joueur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218969
+    m_Localized: Quitter le tutoriel et revenir au menu principal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218968
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218961
+    m_Localized: Va enfiler ta combinaison spatiale dans la [em1]capsule[/em1].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218964
+    m_Localized: C'est parti !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218948
+    m_Localized: "J'esp\xE8re que le trajet jusqu'au centre dans le bus a\xE9rien
+      s'est bien pass\xE9. Venez avec moi et je vous expliquerai les diff\xE9rentes
+      proc\xE9dures avant l'embarquement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218946
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218965
+    m_Localized: "Dirige toi vers la [em1]capsule[/em1] et d\xE9collez !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218962
+    m_Localized: "Bravo, je pense que tu es maintenant pr\xEAt \xE0 aller dans l'ESPACE
+      !!! Suis moi, nous allons nous diriger vers la zone d'embarquement.\nPas d'antenne,
+      je suis excit\xE9 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218972
+    m_Localized: "Pour te d\xE9placer, tu peux te t\xE9l\xE9porter en maintenant
+      enfonc\xE9 la [em1]gachette arri\xE8re[/em1] de l'une de tes manettes, ce qui
+      fera appara\xEEtre un laser. En rel\xE2chant le bouton, tu te t\xE9l\xE9porteras
+      \xE0 l'endroit o\xF9 pointe le laser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218967
+    m_Localized: "Tu as termin\xE9 le tutoriel ! Tu as maintenant acc\xE8s aux autres
+      sc\xE9narios !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218953
+    m_Localized: Ok, j'ai tout compris.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057805963218971
+    m_Localized: Rester dans le tutoriel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2517788999405568
+    m_Localized: "Ton badge est \xE0 la [em1]r\xE9ception[/em1]. Je t'y attends."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

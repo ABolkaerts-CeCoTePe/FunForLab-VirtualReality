@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialInstruction_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 64ffd5b21f2d4d44182830583f1b83ff, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 143666565120
+    m_Localized: Fangen Sie an, mit dem Roboter vor Ihnen zu sprechen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63899291648
+    m_Localized: "Um dies zu tun, richten Sie Ihren Controller auf den Text Gespr\xE4ch
+      dar\xFCber."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428321394688
+    m_Localized: "Wenn ein gr\xFCner Laser erscheint, dr\xFCcken Sie den hinteren
+      Ausl\xF6ser Ihres Controllers."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367369768960
+    m_Localized: "Um das Gespr\xE4ch fortzusetzen, zeigen Sie mit Ihrem Controller
+      auf die Weiter-Schaltfl\xE4che und dr\xFCcken Sie den hinteren Ausl\xF6ser
+      Ihres Controllers."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312835895840768
+    m_Localized: In FunForLab erfolgt die Fortbewegung durch Teleportation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312970243592192
+    m_Localized: "Um sich dorthin zu teleportieren, lassen Sie die hintere Taste
+      los, die Sie gerade gedr\xFCckt halten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312931291090944
+    m_Localized: "Am Ende dieses Lasers zeigt ein kreisf\xF6rmiger Bereich an, wohin
+      Sie sich teleportieren werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312891705249792
+    m_Localized: "Um sich zu bewegen, dr\xFCcken Sie den hinteren Ausl\xF6ser Ihres
+      Controllers und halten ihn gedr\xFCckt. Ein blauer Laser wird aus Ihrem Controller
+      herauskommen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378542645956608
+    m_Localized: "Um einen Gegenstand aufzuheben, bewegen Sie Ihre Hand n\xE4her
+      heran, bis sein Umriss gelb wird."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378553987354624
+    m_Localized: "Halten Sie den hinteren Ausl\xF6ser Ihres Controllers gedr\xFCckt,
+      um ihn zu halten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378587009110016
+    m_Localized: Um das Objekt freizugeben, lassen Sie die hintere Taste los.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

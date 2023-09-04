@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab66726437d0cd4c8f6fd174501ac27, type: 3}
+  m_Name: SampleCBCData
+  m_EditorClassIdentifier: 
+  sampleType: 0
+  typeFonctionnement: 0
+  modeAnalyse: 0
+  testsDiscrets: 
+  positive: 0
+  validated: 0
+  sampleID: CBC-12345678
+  dateCollect: 12/09/2022 10:33
+  collectID: ID1234
+  arm: 0
+  emplacementRack: 
+  qcPresent: 0
+  mixed: 0
+  commentSample: 
+  hospital: "H\xF4pital 1"
+  doctor: "M\xE9decin 1"
+  patientID: 123456789012345
+  patientBirthday: 29/03/1997
+  patientSex: 77
+  patientYears: 25
+  patientName: Robinson Ryley
+  commentPatient: 
+  wBC: 14.2
+  rBC: 2.53
+  hGB: 8.5
+  hCT: 27
+  mCV: 106.7
+  mCH: 33.8
+  mCHC: 31.6
+  pLT: 242
+  rDWSD: 68.7
+  rDWCV: 17.6
+  pDW: 8.8
+  mPV: 9.4
+  pLCR: 19.2
+  pCT: 0.19
+  nRBCH: 0
+  nRBCP: 0
+  neutH: 4.25
+  lymphH: 1.54
+  monoH: 0.43
+  eoH: 0.12
+  basoH: 0.05
+  neutP: 66.5
+  lymphP: 24.1
+  monoP: 6.7
+  eoP: 1.9
+  basoP: 0.8
+  iGH: 0.17
+  iGP: 2.7
+  rETP: 3.3
+  rETH: 0.0835
+  iRF: 38.6
+  lFR: 61.4
+  mFR: 18.2
+  hFR: 20.4
+  rETHe: 31.6
+  iPF: 4.4
+  wBCBF: 0.42
+  rBCBF: 0.001
+  mNH: 0.164
+  pMNH: 0.256
+  mNP: 39.1
+  pMNP: 60.9
+  tCBFH: 0.445
+  wBCFlags: 
+  rBCFlags: 
+  pLTFlags: 
+  actions: 
+  errors: 
